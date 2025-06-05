@@ -132,13 +132,12 @@ h2{
 .fot {
     text-align: center; 
     padding: 20px; 
-    background-color: #000000; 
-    color: #fff;
+    color: #000000;
 }
 
 .fot a{
     margin: 0 15px; 
-    color:#ffffff; 
+    color:#000000; 
     text-decoration:none;
     display: inline-flex;
 }
